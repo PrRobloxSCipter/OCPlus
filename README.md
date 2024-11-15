@@ -12,7 +12,7 @@ Loads the latest version of the script (v0.9):
 -- Run this line of code to load OC+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gabe616/OCPlus/main/loader.lua"))()
 ```
-
+ok
 ## Compatibility
 
 | Status            | Executor              | Reason/Issue                   |
